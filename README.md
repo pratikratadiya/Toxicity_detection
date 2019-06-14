@@ -11,6 +11,7 @@ The following implementations are done:
 4. Attention mechanism with GLoVe 300D word embeddings
 
 The results obtained were as follows:
+
 | Model | Training accuracy(%) | Testing accuracy(%) |
 | ----- | ----------------- | ---------------- |
 | LSTM | 82 | 80 |
